@@ -15,7 +15,6 @@
 - 🌱 Contributed a **merged pull request** to **GNU Radio**, fixing a critical crash in GNU Radio Companion
 - ☁️ Completed an **AI & Azure Internship** (Edunet Foundation × AICTE, a Microsoft Initiative)
 - 🐧 Completed a **Cloud Computing Internship** at Spectrum Softtech Solutions, deploying on AWS EC2
-- 📊 Ranked **2,766 out of 50,000+** candidates in CUSAT CAT
 - 💬 Ask me about: Backend systems, AI/ML pipelines, and cloud deployment
 
 ---
@@ -59,9 +58,8 @@
 
 ### 🔥 Featured Projects
 
-- **[HappiTrack](https://github.com/YOUR-USERNAME/HappiTrack)** — Hackathon-winning platform; led architecture design and built backend services (Node.js, Express.js) with REST APIs, event tracking, and personalization workflows.
-- **[DermaScan](https://github.com/YOUR-USERNAME/DermaScan)** — AI-assisted skin disease screening system using Vision Transformers, with a Dockerized, hybrid inference architecture.
-- **TrendiAI** — AI research trend tracker aggregating arXiv, GitHub, Reddit, and Exa API data, powered by an NLP pipeline (TF-IDF, KeyBERT, KMeans) with an interactive Streamlit dashboard.
+- **[HappiTrack](https://github.com/amith-exe/Happi-Track)** — Hackathon-winning platform; led architecture design and built backend services (Node.js, Express.js) with REST APIs, event tracking, and personalization workflows.
+- **[DermaScan](https://github.com/amith-exe/DermaScan)** — AI-assisted skin disease screening system using Vision Transformers, with a Dockerized, hybrid inference architecture.
 
 ---
 
@@ -79,10 +77,4 @@
 
 <p align="center"><i>⭐ from Kollam, Kerala — always building, always learning.</i></p>
 
-### 📫 Reach Me
 
-- 📧 amith1biju@gmail.com
-- 📱 +91 9207842040
-- 📍 Kollam, Kerala, India
-
-<p align="center"><i>⭐ from Kollam, Kerala — always building, always learning.</i></p>
