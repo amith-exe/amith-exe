@@ -2,7 +2,7 @@
 <h3 align="center">Computer Science & Engineering Undergraduate | Software Engineer in the making</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="  <a href="https://linkedin.com/in/YOUR-LINKEDIN"[ target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=l](https://www.linkedin.com/in/amith-biju-a70813327/)inkedin&logoColor=white"/></a>" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:amith1biju@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
