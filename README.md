@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Amith Biju</h1>
-<h3 align="center">Computer Science & Engineering Undergraduate | Software Engineer in the making</h3>
+<h3 align="center">Computer Science & Engineering Undergraduate | Software Engineer </h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/amith-biju-a70813327/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
