@@ -59,7 +59,7 @@
 ### 🔥 Featured Projects
 
 - **[HappiTrack](https://github.com/amith-exe/Happi-Track)** — Hackathon-winning platform; led architecture design and built backend services (Node.js, Express.js) with REST APIs, event tracking, and personalization workflows.
-- **[DermaScan](https://github.com/amith-exe/DermaScan)** — AI-assisted skin disease screening system using Vision Transformers, with a Dockerized, hybrid inference architecture.
+- **[DermaScan](https://github.com/amith-exe/Skin-disease-AI)** — AI-assisted skin disease screening system using Vision Transformers, with a Dockerized, hybrid inference architecture.
 
 ---
 
