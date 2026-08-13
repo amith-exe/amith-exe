@@ -41,21 +41,6 @@ I enjoy turning ideas into working software, solving engineering problems, and l
 
 ---
 
-# 🎮 Contribution Arcade
-
-<div align="center">
-
-### 🕹️ My GitHub Activity
-
-<!-- Replace this with your contribution game -->
-
-<img src="YOUR_CONTRIBUTION_GAME_URL" width="850" alt="GitHub Contribution Game"/>
-
-<br/>
-
-**BUILD • LEARN • SHIP • LEVEL UP**
-
-</div>
 
 ## ⚔️ Tech Stack
 
@@ -67,81 +52,15 @@ I enjoy turning ideas into working software, solving engineering problems, and l
 
 ---
 # 🚀 Featured Projects
+## Projects
+Highlights repositories as proof of work.
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=amith-exe&theme=github-dark&mode=light" />
+    <img src="https://www.gitskins.com/api/section/projects?username=amith-exe&theme=github-dark" alt="amith-exe projects section" />
+  </picture>
+</p>
 
-## 🥇 HappiTrack
-
-**Hackathon Winning Project**
-
-> A CRM ecosystem designed to improve customer relationship workflows.
-
-- 🏆 **1st Place — NeoITO 11:11 Hackathon**
-- 👥 Led a **3-member team**
-- ⚙️ Designed system architecture
-- 🔧 Developed backend services using **Node.js & Express.js**
-- 🔌 Built REST APIs
-- 📊 Implemented event tracking and personalization workflows
-
-**Tech:** `Node.js` `Express.js` `MongoDB` `Angular` `Tailwind`
-
-🔗 [View Repository](YOUR_HAPPITRACK_REPO_URL)
-
----
-
-## 🤖 DermaScan
-
-**AI-Assisted Skin Disease Screening**
-
-> An AI-based system for image classification using Vision Transformers.
-
-- 🧠 Vision Transformer based model
-- 🐳 Dockerized deployment
-- ⚡ Hybrid inference architecture
-- 🔬 Computer vision / deep learning
-
-**Tech:** `Python` `PyTorch` `Vision Transformers` `Docker`
-
-🔗 [View Repository](YOUR_DERMASCAN_REPO_URL)
-
----
-
-## 📊 TrendiAI
-
-**AI Research Trend Tracker**
-
-> A platform for discovering and tracking emerging AI research trends.
-
-- 🔎 Aggregated data from **arXiv, GitHub and Reddit**
-- ⚡ Integrated **Exa API**
-- 🧠 TF-IDF based NLP pipeline
-- 🔑 KeyBERT keyword extraction
-- 📊 KMeans clustering
-- 🌐 Interactive Streamlit dashboard
-
-**Tech:** `Python` `NLP` `TF-IDF` `KeyBERT` `KMeans` `Streamlit`
-
-🔗 [View Repository](https://github.com/amith-exe/Trendi-Ai)
-
----
-
-# 🧩 Open Source
-
-### GNU Radio
-
-**Merged Pull Request**
-
-> Fixed a critical crash in GNU Radio Companion caused by invalid exception handling while loading corrupted `.grc` files.
-
-### Contributions
-
-- 🐛 Fixed crash caused by invalid exception handling
-- 🐍 Improved compatibility with newer Python versions
-- 📝 Replaced deprecated traceback formatting
-- 🔍 Preserved complete exception tracebacks
-- ⚡ Improved application stability
-
-🔗 [View Contribution](YOUR_GNU_RADIO_PR_URL)
-
----
 
 # 🏆 Achievements
 
@@ -305,14 +224,7 @@ Selected stack and skill badges will be generated from the GitHub profile and RE
     <img src="https://www.gitskins.com/api/section/stack?username=amith-exe&theme=github-dark" alt="amith-exe stack section" />
   </picture>
 </p>
-## Projects
-Highlights repositories as proof of work.
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=amith-exe&theme=github-dark&mode=light" />
-    <img src="https://www.gitskins.com/api/section/projects?username=amith-exe&theme=github-dark" alt="amith-exe projects section" />
-  </picture>
-</p>
+
 ## Heatmap
 Animated year-long contribution calendar.
 ## GitHub Stats
