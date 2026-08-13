@@ -57,44 +57,15 @@ I enjoy turning ideas into working software, solving engineering problems, and l
 
 </div>
 
----
-
-# ⚔️ Tech Stack
+## ⚔️ Tech Stack
 
 <div align="center">
 
-### Languages
-
-<img src="https://skillicons.dev/icons?i=c,cpp,python,javascript,typescript,go" />
-
-<br/><br/>
-
-### Frontend & Backend
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,nestjs,django" />
-
-<br/><br/>
-
-### Databases & ORM
-
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,prisma" />
-
-<br/><br/>
-
-### AI / ML
-
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow" />
-
-<br/><br/>
-
-### Cloud & DevOps
-
-<img src="https://skillicons.dev/icons?i=aws,docker,linux,git,github" />
+<img src="https://skillicons.dev/icons?i=cpp,c,python,js,ts,go,react,nextjs,nodejs,nestjs,postgres,prisma,pytorch,aws,docker,linux,git&perline=9" width="500"/>
 
 </div>
 
 ---
-
 # 🚀 Featured Projects
 
 ## 🥇 HappiTrack
