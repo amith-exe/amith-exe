@@ -35,7 +35,7 @@
 <!--                         ABOUT ME                          -->
 <!-- ========================================================= -->
 
-# 👨‍💻 About Me
+#  About Me
 
 I'm a **Computer Science and Engineering undergraduate** interested in building practical software and understanding how systems work under the hood.
 
@@ -75,11 +75,7 @@ I enjoy turning ideas into working software and solving real-world engineering p
 <!-- ========================================================= -->
 <!--                    FEATURED PROJECTS                      -->
 <!-- ========================================================= -->
-
-# 🚀 Featured Projects
-
-<!-- GitSkins automatically generates project cards
-     from your GitHub repositories -->
+# Featured Projects
 
 <p align="center">
 
@@ -91,12 +87,18 @@ I enjoy turning ideas into working software and solving real-world engineering p
 
 </p>
 
+<p align="center">
+  📌 <a href="https://github.com/amith-exe"><b>Explore my pinned projects →</b></a>
+  &nbsp;•&nbsp;
+  🔎 <a href="https://github.com/amith-exe?tab=repositories"><b>View all repositories →</b></a>
+</p>
+
 
 <!-- ========================================================= -->
 <!--                       TECH STACK                          -->
 <!-- ========================================================= -->
 
-# ⚔️ Tech Stack
+#  Tech Stack
 
 <div align="center">
 
@@ -114,7 +116,7 @@ I enjoy turning ideas into working software and solving real-world engineering p
 <!--                    GITHUB ACTIVITY                        -->
 <!-- ========================================================= -->
 
-# 📈 GitHub Activity
+#  GitHub Activity
 
 <div align="center">
 
@@ -132,7 +134,7 @@ I enjoy turning ideas into working software and solving real-world engineering p
 <!--                  CONTRIBUTION ARCADE                      -->
 <!-- ========================================================= -->
 
-# 🎮 Contribution Arcade
+#  Contribution Arcade
 
 <div align="center">
 
