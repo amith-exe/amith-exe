@@ -32,7 +32,7 @@
 
 Computer Science & Engineering undergraduate @ **CUSAT** building **software, backend systems, and AI/ML applications**.
 
- I've **built and deployed products used by real users**, including **Vellam Undo**, a community-driven platform for reporting and discovering flood-related incidents, led an **award-winning hackathon project**, and contributed to **open source**.
+ I've **built and deployed products used by real users**, including **vellamundo.in**, a community-driven platform for reporting and discovering flood-related incidents, led an **award-winning hackathon project**, and contributed to **open source**.
 
 Focused on **backend engineering, system design, cloud, and scalable software**.
 
