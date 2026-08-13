@@ -77,25 +77,7 @@ Highlights repositories as proof of work.
 
 ---
 
-# 📊 GitHub Stats
 
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=amith-exe&show_icons=true&hide_border=true&bg_color=00000000&title_color=00FFFF&icon_color=FF00FF&text_color=FFFFFF&rank_icon=github" />
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amith-exe&layout=compact&hide_border=true&bg_color=00000000&title_color=00FFFF&text_color=FFFFFF" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=amith-exe&theme=transparent&hide_border=true&ring=00FFFF&fire=FF00FF&currStreakLabel=00FFFF" />
-
-</div>
-
----
 
 # 📈 Contribution Graph
 ## Pac-Man
