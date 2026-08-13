@@ -1,24 +1,19 @@
 <!-- ========================================================= -->
 <!--                         HEADER                            -->
 <!-- ========================================================= -->
-
 <div align="center">
-
-  <!-- Animated profile header -->
-  <img
+<!-- Animated profile header -->
+ <img
     src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=9,17,24&height=280&section=header&text=Amith%20Biju&fontSize=70&fontColor=00FFFF&animation=twinkling&fontAlignY=42&desc=Software%20Engineer%20%7C%20Backend%20%7C%20AI%2FML%20%7C%20Open%20Source&descSize=22&descFontColor=FF00FF&descAlignY=63"
     width="100%"
     alt="Amith Biju - Software Engineer"
   />
-
   <br />
-
-  <!-- Typing animation -->
+ <!-- Typing animation -->
   <img
     src="https://readme-typing-svg.demolab.com?font=Orbitron&size=18&pause=1000&color=00FFFF&center=true&vCenter=true&width=700&lines=Building%20software.%20Solving%20problems.%20Leveling%20up.;Building%20Backend%20systems;Learning%20System%20Design;Exploring%20AI%2FML;Contributing%20to%20Open%20Source"
     alt="Typing Animation"
   />
-
   <br /><br />
 
   <!-- Coding animation -->
@@ -29,8 +24,6 @@
   />
 
 </div>
-
-
 <!-- ========================================================= -->
 <!--                         ABOUT ME                          -->
 <!-- ========================================================= -->
