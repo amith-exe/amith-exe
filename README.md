@@ -126,7 +126,11 @@ Highlights repositories as proof of work.
 ## 🏆 Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical&no-frame=true&row=2&column=4"/>
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=amith-exe&theme=radical&no-frame=true&no-bg=true&margin-w=8&row=2&column=4"
+    width="700"
+    alt="GitHub Trophies"
+  />
 </p>
 
 ## ⌨️ About Me
