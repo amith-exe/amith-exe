@@ -37,18 +37,11 @@
 
 #  About Me
 
-I'm a **Computer Science and Engineering undergraduate** interested in building practical software and understanding how systems work under the hood.
+Computer Science & Engineering undergraduate @ **CUSAT** building **software, backend systems, and AI/ML applications**.
 
-My main interests are:
+I've built real-world products like **Vellam Undo**, a community-driven platform for reporting and discovering flood-related incidents, led an **award-winning hackathon project**, and contributed to **open source**.
 
-- 🧑‍💻 Software Engineering
-- ⚙️ Backend Development
-- 🤖 AI / Machine Learning
-- 🌐 Open Source
-- ☁️ Cloud & DevOps
-- 🧩 System Design
-
-I enjoy turning ideas into working software and solving real-world engineering problems.
+Focused on **backend engineering, system design, cloud, and scalable software**.
 
 
 <!-- ========================================================= -->
