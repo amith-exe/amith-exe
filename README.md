@@ -99,11 +99,20 @@ Highlights repositories as proof of work.
 
 # 📈 Contribution Graph
 ## Pac-Man
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
-</picture>
+## 🎮 Contribution Arcade
+
+<div align="center">
+
+<img
+  src="https://raw.githubusercontent.com/amith-exe/amith-exe/output/pacman-contribution-graph-dark.svg"
+  width="800"
+  alt="Pac-Man contribution graph">
+
+<br>
+
+**BUILD • LEARN • SHIP • LEVEL UP**
+
+</div>
 
 <div align="center">
 
